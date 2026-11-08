@@ -1,4 +1,4 @@
-# 牛熊状态下的双均线策略研究
+# Market Regime and Dual Moving Average Strategy Research｜牛熊状态下的双均线策略研究
 
 状态：研究目标草案；尚未下载新数据、运行实验或得到研究结论。
 
