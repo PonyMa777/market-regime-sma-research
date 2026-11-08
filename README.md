@@ -55,20 +55,22 @@ flowchart TD
 
 ### Main Sample｜12家主样本
 
-| 股票 | 公司与业务 | 为什么选 |
+| 股票 | 公司与业务 | Listing Date｜上市时间 |
 |---|---|---|
-| AAPL | Apple 苹果；消费电子与服务 | 看消费产品公司的牛熊是否与大盘同步。 |
-| MSFT | Microsoft 微软；软件与云服务 | 与硬件公司比较，看企业软件与云业务的走势差异。 |
-| GOOGL | Alphabet 谷歌；互联网平台、广告与云 | 代表互联网平台，和META对照；仅选这一类股份，避免与GOOG重复计数。 |
-| AMZN | Amazon 亚马逊；电商与云服务 | 观察消费与企业云业务并存的公司是否有不同节奏。 |
-| META | Meta；社交平台与广告 | 与GOOGL比较，看相近业务的公司是否同时转牛转熊。 |
-| TSLA | Tesla 特斯拉；电动车与能源 | 保留七姐妹中业务明显不同的公司，检验统一门槛能否适用。 |
-| NVDA | NVIDIA 英伟达；GPU与AI芯片 | 同时连接七姐妹和半导体组，比较其与AMD及大盘的走势。 |
-| MU | Micron 美光；存储芯片 | 加入存储这一环，避免半导体样本只有处理器公司。 |
-| AMD | AMD；CPU与GPU | 与NVDA、INTC比较，观察有业务交集的公司是否同步。 |
-| INTC | Intel 英特尔；处理器与芯片制造 | 加入上市历史较长的老牌企业，不只挑近期受关注的公司。 |
-| TXN | Texas Instruments 德州仪器；模拟与嵌入式芯片 | 补充工业、汽车等应用，避免所有样本都围绕AI。 |
-| ASML | ASML 阿斯麦；光刻设备 | 比较卖制造设备的公司与卖芯片的公司是否同时进入牛熊。 |
+| AAPL | Apple 苹果；消费电子与服务 | [1980-12-12](https://investor.apple.com/faq./default.aspx) |
+| MSFT | Microsoft 微软；软件与云服务 | [1986-03-13](https://learn.microsoft.com/en-us/shows/history/history-of-microsoft-1986) |
+| GOOGL | Alphabet 谷歌；互联网平台、广告与云 | [2004-08-19（Google A类股首次交易；当时代码为GOOG）](https://abc.xyz/assets/investor/static/pdf/2007_google_annual_report.pdf) |
+| AMZN | Amazon 亚马逊；电商与云服务 | [1997-05-15](https://ir.aboutamazon.com/faqs/default.aspx) |
+| META | Meta；社交平台与广告 | [2012-05-18（当时为Facebook／FB）](https://investor.atmeta.com/investor-news/press-release-details/2012/Facebook-Announces-Pricing-of-Initial-Public-Offering/default.aspx) |
+| TSLA | Tesla 特斯拉；电动车与能源 | [2010-06-29](https://ir.nasdaq.com/news-releases/news-release-details/nasdaq-omx-welcomes-tesla-motors-nasdaq-stock-market) |
+| NVDA | NVIDIA 英伟达；GPU与AI芯片 | [1999-01-22](https://investor.nvidia.com/investor-resources/faqs/) |
+| MU | Micron 美光；存储芯片 | [1984-06（月）](https://archive.computerhistory.org/resources/access/text/2013/04/102723191-05-01-acc.pdf) |
+| AMD | AMD；CPU与GPU | [1972-09-27（首次公开发行，场外交易）](https://ir.amd.com/contacts-faq/faq) |
+| INTC | Intel 英特尔；处理器与芯片制造 | [1971-10-13](https://www.intc.com/stock-info/faq) |
+| TXN | Texas Instruments 德州仪器；模拟与嵌入式芯片 | [1953-10-01（首次公开交易，NYSE）](https://investor.ti.com/resources/frequently-asked-questions) |
+| ASML | ASML 阿斯麦；光刻设备 | [1995-03（月）](https://www.chiphistory.org/exhibits/ex_se_asml_20yr_history/chapter4.pdf) |
+
+日期按首次公开发行或交易口径，括号注明特殊情况；MU、ASML目前核实到月份。上市时间不等于数据源可提供的分钟行情起点。
 
 ### Extended Sample｜4家扩展组
 
