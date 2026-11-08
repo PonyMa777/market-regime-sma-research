@@ -1,4 +1,4 @@
-# Bull and Bear Regimes in Individual Stocks｜个股牛熊划分研究
+# Bull and Bear Regimes in Individual Stocks｜个股牛熊划分研究（震荡待研究）
 
 当前阶段：确定研究目标和划分规则，尚未开始数据分析或回测。
 
